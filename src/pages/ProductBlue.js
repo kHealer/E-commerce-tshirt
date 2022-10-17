@@ -5,7 +5,6 @@ import styled from 'styled-components'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import Newsletter from '../components/Newsletter'
-import ProductBlack from './ProductBlack'
 
 const Container = styled.div`
 `
